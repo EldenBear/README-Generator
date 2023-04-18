@@ -14,3 +14,8 @@ Screenshots of usage and generated README example:
 
 ![usage](assets/images/READMEGENSC2.png) ![generated](assets/images/READMEGENSC.png)
 
+```
+Link to walkthrough video:
+```
+https://drive.google.com/file/d/1t6cqKmGvuqoDFuvmWTO_DMu4wuKQgDqx/view
+
