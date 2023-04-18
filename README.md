@@ -2,7 +2,8 @@
 
 ## Description
 ```
-This is a README file generator that takes in input from the user and ouputs a quality README for the user to use for their projects and apps.
+This is a README file generator that takes in input from the user and 
+ouputs a quality README for the user to use for their projects and apps.
 ```
 
 
